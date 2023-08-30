@@ -6,13 +6,9 @@ Tool that gives rythm music notation based on user-input tapping
 
 [Github pages deploy](https://jandreslami.github.io/cadence-transcriber)
 
-## Original author
-
-- [@imkevinkuo](https://github.com/imkevinkuo)
-
 ## Original demo
 
-- [Cadence original deploy on GH pages](https://imkevinkuo.github.io/rhythm.html)
+- [Cadence original deploy on GH pages](https://imkevinkuo.github.io/rhythm.html), by [@imkevinkuo](https://github.com/imkevinkuo)
 
 ## Additional features planned from original repo
   - [ ] Input BPM from text, not only tapping
