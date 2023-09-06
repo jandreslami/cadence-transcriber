@@ -19,6 +19,8 @@ Tool that gives rythm music notation based on user-input tapping
   - [ ] UI rework (change ripple animation?)
   - [ ] Dark mode
   - [ ] Output saving for next session (with session name)
+  - [ ] Export to MusicXML
   - [ ] Spanish translation
+  - [ ] Play on-screen rhythm once tapped (with visual indicator?)
   - [ ] Voice input?
 
